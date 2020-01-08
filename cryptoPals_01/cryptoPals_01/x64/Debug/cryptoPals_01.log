@@ -1,0 +1,4 @@
+﻿  cryptoPals_01.cpp
+c:\users\hrhar\documents\github\cryptopals\cryptopals_01\cryptopals_01\cryptopals_01.cpp(23): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\hrhar\documents\github\cryptopals\cryptopals_01\cryptopals_01\cryptopals_01.cpp(52): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  cryptoPals_01.vcxproj -> C:\Users\hrhar\Documents\GitHub\cryptoPals\cryptoPals_01\x64\Debug\cryptoPals_01.exe
